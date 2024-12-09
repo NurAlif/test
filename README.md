@@ -77,3 +77,22 @@ Setelah mengetahui nilai simpangan, maka akan dihasilkan curah hujan rencana tah
 
 ## debit limpasan
 
+Debit kala ulang (kadang disebut juga debit banjir rancangan atau design flood discharge) adalah debit limpasan yang diperkirakan akan terlampaui, secara rata-rata, sekali dalam periode waktu tertentu yang disebut kala ulang. Kala ulang biasanya dinyatakan dalam tahun. Misalnya, debit kala ulang 100 tahun adalah debit yang diperkirakan akan terlampaui, secara rata-rata, sekali setiap 100 tahun.
+
+Penting untuk dipahami bahwa debit kala ulang bukanlah prediksi pasti kapan suatu debit tertentu akan terjadi. Ini adalah pernyataan probabilitas. Debit kala ulang 100 tahun memiliki peluang 1% untuk terlampaui dalam satu tahun tertentu. Ini tidak berarti bahwa debit tersebut akan terjadi tepat sekali setiap 100 tahun, atau bahwa debit tersebut tidak akan terjadi lagi selama 100 tahun setelah terjadi. Bisa saja debit tersebut terlampaui beberapa kali dalam 100 tahun, atau bahkan tidak terlampaui sama sekali dalam periode yang lebih lama.
+
+Debit kala ulang digunakan dalam berbagai aplikasi rekayasa dan perencanaan, termasuk:
+
+Perancangan bangunan pengendali banjir: Seperti bendungan, tanggul, dan saluran drainase. Debit kala ulang digunakan untuk menentukan kapasitas struktur tersebut agar dapat menampung banjir dengan probabilitas tertentu.
+
+Penentuan zona bahaya banjir: Untuk mengidentifikasi daerah yang berisiko tergenang banjir dan mengatur tata guna lahan di daerah tersebut.
+
+Perencanaan tata ruang: Untuk menghindari pembangunan di daerah yang berpotensi terkena banjir besar.
+
+Manajemen risiko banjir: Untuk menilai risiko dan kerugian potensial akibat banjir dan mengembangkan strategi mitigasi.
+
+Penentuan debit kala ulang biasanya dilakukan dengan menganalisis data historis debit sungai. Data debit ini kemudian diplot pada grafik probabilitas dan diekstrapolasi untuk memperkirakan debit untuk kala ulang yang lebih lama. Beberapa metode statistik yang umum digunakan antara lain:
+
+Metode Gumbel: Metode yang paling umum digunakan untuk menganalisis data debit ekstrem.
+
+Metode Log-Pearson Tipe III: Metode yang direkomendasikan oleh U.S. Water Resources Council.
